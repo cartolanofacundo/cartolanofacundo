@@ -1,5 +1,4 @@
 ### Hi there 👋
-Estoy trabajando para que mati aprenda
 <!--
 **cartolanofacundo/cartolanofacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
